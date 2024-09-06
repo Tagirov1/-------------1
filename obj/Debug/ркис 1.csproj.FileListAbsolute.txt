@@ -1,0 +1,18 @@
+Z:\24-25 уч год\44 ИС\ркис 1\bin\Debug\ркис 1.exe.config
+Z:\24-25 уч год\44 ИС\ркис 1\bin\Debug\ркис 1.exe
+Z:\24-25 уч год\44 ИС\ркис 1\bin\Debug\ркис 1.pdb
+Z:\24-25 уч год\44 ИС\ркис 1\bin\Debug\EntityFramework.dll
+Z:\24-25 уч год\44 ИС\ркис 1\bin\Debug\EntityFramework.SqlServer.dll
+Z:\24-25 уч год\44 ИС\ркис 1\bin\Debug\EntityFramework.xml
+Z:\24-25 уч год\44 ИС\ркис 1\bin\Debug\EntityFramework.SqlServer.xml
+Z:\24-25 уч год\44 ИС\ркис 1\bin\Debug\ru\EntityFramework.resources.dll
+Z:\24-25 уч год\44 ИС\ркис 1\obj\Debug\ркис 1.csproj.AssemblyReference.cache
+Z:\24-25 уч год\44 ИС\ркис 1\obj\Debug\ркис 1.csproj.SuggestedBindingRedirects.cache
+Z:\24-25 уч год\44 ИС\ркис 1\obj\Debug\ркис_1.Properties.Resources.resources
+Z:\24-25 уч год\44 ИС\ркис 1\obj\Debug\ркис 1.csproj.GenerateResource.cache
+Z:\24-25 уч год\44 ИС\ркис 1\obj\Debug\ркис 1.csproj.CoreCompileInputs.cache
+Z:\24-25 уч год\44 ИС\ркис 1\obj\Debug\ркис 1.csproj.CopyComplete
+Z:\24-25 уч год\44 ИС\ркис 1\obj\Debug\ркис 1.exe
+Z:\24-25 уч год\44 ИС\ркис 1\obj\Debug\ркис 1.pdb
+Z:\24-25 уч год\44 ИС\ркис 1\obj\Debug\ркис_1.FormAddUsers.resources
+Z:\24-25 уч год\44 ИС\ркис 1\obj\Debug\ркис_1.MainForm.resources
